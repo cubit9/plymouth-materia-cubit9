@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Materia Manjaro
+Description=Manjaro Linux theme inspired by KDE Breeze
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/materia-manjaro
+ScriptFile=/usr/share/plymouth/themes/materia-manjaro/script
