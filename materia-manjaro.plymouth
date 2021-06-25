@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Materia Manjaro
+Name=Materia Cubit9
 Description=Manjaro Linux theme inspired by KDE Breeze
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/materia-manjaro
-ScriptFile=/usr/share/plymouth/themes/materia-manjaro/script
+ImageDir=/usr/share/plymouth/themes/materia-cubit9
+ScriptFile=/usr/share/plymouth/themes/materia-cubit9/script
